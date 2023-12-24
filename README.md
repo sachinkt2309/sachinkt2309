@@ -20,3 +20,8 @@ Also shows all the skills and qualification which are gather throw out my educat
 ### Education
 ●	Bachelor of Engineering in computer science, Global Academy of Technology(2021), 
   Graduated with 7.18 CGPA.
+
+## Experience
+##Software Engineer 
+##virtusa   nov-2021 to present
+
