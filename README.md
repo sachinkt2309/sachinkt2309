@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to my Git profiles. This repository is a glimpse into my coding journey, where I channel my passion for innovation and problem-solving into beautiful and functional creations.💻🔮
+Also shows all the skills and qualification which are gather throw out my education and coding journey.
 
-<!--
-**sachinkt2309/sachinkt2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills & Technology
+- Java
+- Spring Boot
+- OOP
+- Spring
+- Hibernate
+- Data Structures
+- SQL
+- Mango DB
+- HTML5
+- CSS3
+- Git
+- PostMan
+- Jenkins
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+●	Bachelor of Engineering in computer science, Global Academy of Technology(2021), 
+  Graduated with 7.18 CGPA.
