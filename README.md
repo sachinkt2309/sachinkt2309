@@ -9,6 +9,7 @@ Also shows all the skills and qualification which are gather throw out my educat
 - Spring
 - Hibernate
 - Data Structures
+- JavaScript
 - SQL
 - Mango DB
 - HTML5
