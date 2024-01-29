@@ -24,7 +24,7 @@ Nov 2021 - Present
 ## Projects
 - [SpringDataJpaProject](https://github.com/sachinkt2309/SpringDataJpaProject)
 - [Two-Factor-Authentication](https://github.com/sachinkt2309/Two-Factor-Authentication).
-- [Myntra-Clone-Application](https://github.com/sachinkt2309/Myntra-Clone-Application)
+- [Online-Shopping-Application](https://github.com/sachinkt2309/Myntra-Clone-Application)
 - [ToDo-App](https://github.com/sachinkt2309/ToDo-App)
 - [Cricket-Game](https://github.com/sachinkt2309/Cricket-Game-Project)
 - [Employee-Management-System](https://github.com/sachinkt2309/Employee-Management-System)
